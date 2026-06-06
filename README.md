@@ -66,6 +66,6 @@ bash ./scripts/evaluation/run_alignad.sh
 
 | Method  | Backbone  | NC   | DAC  | TTC  | Comfort | EP   | PDMS | PDMS (Best-of-N) | Weight Download                                           |
 | ------- | --------- | ---- | ---- | ---- | ------- | ---- | ---- | ---------------- | --------------------------------------------------------- |
-| AlignAD | ResNet-34 | 98.1 | 98.3 | 94.3 | 99.8    | 89.1 | 91.8 | 97.7             | [Hugging Face](https://huggingface.co/Anderewuuu/AlignAD) |
+| AlignAD | ResNet-34 | 98.1 | 98.3 | 94.3 | 99.8    | 89.1 | 91.8 | 98.7             | [Hugging Face](https://huggingface.co/Anderewuuu/AlignAD) |
 
 
